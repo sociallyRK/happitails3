@@ -9,6 +9,7 @@ def initialize(name, age, gender, num_children)
 	@age = age
 	@gender = gender
 	@pets = {}
+	#all done
 	##@num_pets = @pets.length
 end
 
